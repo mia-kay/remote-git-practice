@@ -1,0 +1,35 @@
+body{
+    background-image: url(https://media.istockphoto.com/id/1363871261/photo/color-papers-geometry-composition-banner-background-with-beige-light-brown-and-dark-brown.jpg?b=1&s=170667a&w=0&k=20&c=TnJpBxV2Jf36bZ8Y50qM9OvpYjuX4kPkbdrsebKBenM=);
+    background-repeat: no-repeat;
+    background-position:fixed;
+    background-size: 100% 200%;
+}
+.barely{
+    background-color: beige;
+    border-radius: 70px;
+    width: 200px;
+    /* border: 0.5px solid brown; */
+}
+.likely{
+    background-color: beige;
+    border-radius: 70px;
+    width: 350px;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+.input-text{
+    border-bottom: 20px;
+    border-radius: 20px;
+}
+h2,h4{
+    font-family: serif;
+}
+#rate{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    ;
+}

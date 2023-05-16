@@ -1,0 +1,40 @@
+.btn-warning, .btnfix {
+    color: #fff;
+    background-color: #f0ad4e;
+    border-color: #eea236;
+    margin-top: -8px;
+}
+.navbar-default {
+    background-color: #fff;
+    /* border-color: #e7e7e7; */
+}
+
+.navbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 20px;
+    border: 0px;
+}
+.logo{
+    width: 40px;
+    height: 30px;
+}
+img{
+    height: 500px;
+}
+h1{
+    font-weight: bolder;
+    margin-top: 150px;
+    margin-left: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkgoldenrod;
+    font-size: 70px;
+    text-align: left;
+}
+p{
+    margin-left: 100px;
+}
+.btn2{
+    margin-left: 100px;
+    border-radius: 20px;
+}

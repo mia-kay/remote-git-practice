@@ -1,0 +1,19 @@
+/* .container{
+    width: 100%;
+} */
+.logo{
+    width: 180%;
+    height: 35px;
+}
+.footer{
+    background-color: darkblue;
+}
+h4{
+    color: orange;
+}
+h5{
+    color: yellow;
+}
+.p{
+    color: white;
+}

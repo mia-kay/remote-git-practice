@@ -1,0 +1,36 @@
+ul{list-style: none;
+display: flex;}
+
+.size{
+    border: 2px solid lightgrey;
+    border-radius: 10px;
+    background-color: lightgrey;
+}
+
+.col2{
+    padding-left: 450px;
+    padding-top: 50px;
+}
+.col1{
+    padding-top: 50px;
+}
+.button{
+    color: white;
+    background-color: black;
+    border: none;
+    border-radius: 0px;
+}
+.thumbnail{
+border: none;
+}
+.underline{
+    margin-bottom: 20px;
+}
+.fab {
+    height: 200px;
+    width: 100px;
+}
+.maze{
+    height: 18S0px;
+    width: 200px;
+}
